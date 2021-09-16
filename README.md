@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/rrNA1xO.png" alt="drawing" width="200"/>
+<img src="https://i.imgur.com/bWsqtnA.jpg" alt="drawing" width="400"/>
 
 Hello World!
 
