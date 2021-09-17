@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 <p align="center">
 <img src="https://i.imgur.com/STBsI0X.png" alt="drawing" width="600px"/>
 </p>
@@ -9,3 +11,4 @@ O repositório armazena todos os artefatos e diagramas desenvolvidos no projeto 
 
 ## 💻 Sobre a Amazon.com
 A amazon é uma uma empresa multinacional de tecnologia norte-americana. A companhia se concentra no e-commerce, computação em nuvem, streaming e inteligência artificial. É considerado uma das cinco grandes empresas de tecnologia, juntamente com Google, Apple, Microsoft e Facebook. Foi referida como "uma das forças econômicas e culturais mais influentes do mundo" e a marca mais valiosa do mundo.
+>>>>>>> 2092e49d1abe8bb2fe77b541c2ac5aecc72e1517
