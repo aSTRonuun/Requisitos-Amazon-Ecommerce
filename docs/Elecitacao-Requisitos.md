@@ -12,13 +12,22 @@
 ![](https://i.imgur.com/wWg4Doc.jpg)
 
 ## Casos de uso
-![](https://i.imgur.com/OSOQexy.jpg)
-![](https://i.imgur.com/rTpoKDr.jpg)
-![](https://i.imgur.com/oAnpwxk.jpg)
-![](https://i.imgur.com/exhKDpC.jpg)
-![](https://i.imgur.com/hrI23CW.jpg)
-![](https://i.imgur.com/VdS9FI1.jpg)
-![](https://i.imgur.com/k8bEU5Z.jpg)
+![](https://i.imgur.com/MuiSsGe.jpg)
+
+![](https://i.imgur.com/jvzgUEg.jpg)
+
+![](https://i.imgur.com/4GRDvOw.jpg)
+![](https://i.imgur.com/gRIU3oj.jpg)
+
+![](https://i.imgur.com/NEeZzwK.jpg)
+![](https://i.imgur.com/DbUGis8.jpg)
+![](https://i.imgur.com/OhZiwPH.jpg)
+
+
+
+
+
+
 
 
 
