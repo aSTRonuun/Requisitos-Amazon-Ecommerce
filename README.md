@@ -3,10 +3,20 @@
 </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre o projeto</a> •
- <a href="#-sobre-a-amazoncom">Sobre a Amazon</a> •
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aSTRonuun/Requisitos-Amazon-Ecommerce?color=%23ffd180">
+  <img alt="GitHub" src="https://img.shields.io/github/license/aSTRonuun/Requisitos-Amazon-Ecommerce?color=%23ffab40">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/aSTRonuun/Requisitos-Amazon-Ecommerce?color=%23ff9100">
+  <img alt="Github categoria" src="https://img.shields.io/badge/categoria-engenharia%20de%20software-%23ff6d00">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aSTRonuun/Requisitos-Amazon-Ecommerce?style=social">
+</p>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-elicitação-de-requisitos">Elicitação</a> • 
- <a href="#-modelagem-do-sistema">Modelagem</a> 
+ <a href="#-modelagem-do-sistema">Modelagem</a> • 
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-contribuidores">Contribuidores</a> • 
+ <a href="#-licença">Licença</a>
 </p>
 
 ## 📝 Sobre o Projeto
@@ -74,9 +84,20 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
  ![](https://i.imgur.com/ha4h5i2.png)
  
  #### Diagrama de atividade
- ![](https://i.imgur.com/aCJfMSd.png)
+ ![](https://i.imgur.com/JHXV0nc.png)
+
 
 [Clique aqui para ver a Modelagem Completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
+
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+* <a href="https://astah.net/products/astah-uml/" target="_blank">Astha</a>
+* <a href="https://www.google.com/intl/en-GB/sheets/about/" target="_blank">Google Sheet</a>
+
+
+Utilitários
+* Editor Latex: <a href="https://pt.overleaf.com/" target="_blank">Overleaf</a>
+* Editor Markdown: <a href="https://hackmd.io/" target="_blank">HackMD</a>
 
 ## 👨‍💻 Contribuidores
 
@@ -84,8 +105,8 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/CarlosHenryck" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58481753?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henryck</b></sub></a> <br> <sub>Scrum time</sub><br/>
-    <td align="center"><a href="https://github.com/aSTRonuun" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60976622?v=4s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Vitor Alves</b></sub></a><br> <sub>Scrum time</sub><br/>
+    <td align="center"><a href="https://github.com/CarlosHenryck" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58481753?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henryck</b></sub></a> <br> <sub>🚀</sub><br/>
+    <td align="center"><a href="https://github.com/aSTRonuun" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60976622?v=4s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Vitor Alves</b></sub></a><br> <sub>🌌</sub><br/>
 </td>
   </tr>
 </table>
@@ -96,5 +117,5 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com 💜 por [Vitor Alves](https://www.linkedin.com/in/vitor-alves-a089ab200/) e Carlos Henryck  👋🏽 Entre em contato!
+Feito com 💜 por <a href="https://www.linkedin.com/in/vitor-alves-a089ab200/" target="_blank">Vitor Alves</a> e <a href="https://www.linkedin.com/in/carlos-henryck-086564216/" target="_blank">Carlos Henryck</a>  👋🏽 Entre em contato pelo Linkedin!
 
