@@ -2,6 +2,13 @@
 <img src="https://i.imgur.com/STBsI0X.png" alt="drawing" width="600px"/>
 </p>
 
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-a-amazon.com">Design</a> •
+ <a href="#-elicitação-de-requisitos">Tecnologias</a> • 
+ <a href="#-modelagem-do-sistema">Contribuidores</a> • 
+</p>
+
 ## 📝 Sobre o Projeto
 Projeto desenvolvido no curso de *Engenharia de Software* durante a cadeira de **Análise e Projeto de Software**, tal projeto tem o objetivo de realizar uma análise de requisitos funcionais e não funcionais e apartir daí modelar partes do sistema com diagramas UML.
 
