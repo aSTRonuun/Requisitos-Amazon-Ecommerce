@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-sobre-a-amazon.com">Design</a> •
- <a href="#-elicitação-de-requisitos">Tecnologias</a> • 
- <a href="#-modelagem-do-sistema">Contribuidores</a> • 
+ <a href="#-sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#-sobre-a-Amazon.com">Sobre a Amazon</a> •
+ <a href="#-elicitação-de-requisitos">Elicitação</a> • 
+ <a href="#-modelagem-do-sistema">Modelagem</a> • 
 </p>
 
 ## 📝 Sobre o Projeto
