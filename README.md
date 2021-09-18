@@ -2,6 +2,13 @@
 <img src="https://i.imgur.com/STBsI0X.png" alt="drawing" width="600px"/>
 </p>
 
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#-sobre-a-amazoncom">Sobre a Amazon</a> •
+ <a href="#-elicitação-de-requisitos">Elicitação</a> • 
+ <a href="#-modelagem-do-sistema">Modelagem</a> 
+</p>
+
 ## 📝 Sobre o Projeto
 Projeto desenvolvido no curso de *Engenharia de Software* durante a cadeira de **Análise e Projeto de Software**, tal projeto tem o objetivo de realizar uma análise de requisitos funcionais e não funcionais e apartir daí modelar partes do sistema com diagramas UML.
 
@@ -70,4 +77,24 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
  ![](https://i.imgur.com/aCJfMSd.png)
 
 [Clique aqui para ver a Modelagem Completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
+
+## 👨‍💻 Contribuidores
+
+💜 Um super thanks 👏 para essa galera que desenvolveu esse projeto incrível.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/CarlosHenryck" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58481753?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henryck</b></sub></a> <br> <sub>Scrum time</sub><br/>
+    <td align="center"><a href="https://github.com/aSTRonuun" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60976622?v=4s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Vitor Alves</b></sub></a><br> <sub>Scrum time</sub><br/>
+</td>
+  </tr>
+</table>
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com 💜 por [Vitor Alves](https://www.linkedin.com/in/vitor-alves-a089ab200/) e Carlos Henryck  👋🏽 Entre em contato!
 
