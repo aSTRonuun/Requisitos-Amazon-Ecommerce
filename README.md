@@ -28,13 +28,11 @@ O repositório armazena todos os artefatos e diagramas desenvolvidos no projeto 
 
 ## 💻 Sobre a Amazon.com
 A amazon é uma uma empresa multinacional de tecnologia norte-americana. A companhia se concentra no e-commerce, computação em nuvem, streaming e inteligência artificial. É considerado uma das cinco grandes empresas de tecnologia, juntamente com Google, Apple, Microsoft e Facebook. Foi referida como "uma das forças econômicas e culturais mais influentes do mundo" e a marca mais valiosa do mundo.
-=======
-A amazon é uma uma empresa multinacional de tecnologia norte-americana. A companhia se concentra no e-commerce, computação em nuvem, streaming e inteligência artificial. É considerado uma das cinco grandes empresas de tecnologia, juntamente com Google, Apple, Microsoft e Facebook. Foi referida como "uma das forças econômicas e culturais mais influentes do mundo" e a marca mais valiosa do mundo.
 
 ## 📝 Elicitação de Requisitos
 Na fase de lenvantamento de requisitos, nós dedicamos a entender o sistema da amazon.com focando principalmente nas funções gerais do site e na realização de compra de produtos por parte dos clientes, além disso buscamos entender o funcionamento do sistema lógistico de entrega dos pedidos, para assim, elencar um conjunto de requisitos funcionais e não funcionais para integrar no sistema.
 
-[Clique aqui para ver a Elicitação Completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
+[Clique aqui para ver a Elicitação completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
 
 
 
@@ -61,37 +59,35 @@ Na fase de lenvantamento de requisitos, nós dedicamos a entender o sistema da a
     
     * Casos de Uso
     
-    ![](https://i.imgur.com/0nk1X2X.jpg)
-    ![](https://i.imgur.com/SByM6Nq.jpg)
+    <img src="assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-3.jpg" />
+    <img src="assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-4.jpg" />
 
-[Clique aqui para ver a Elicitação Completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
+[Clique aqui para ver a Elicitação completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Elecitacao-Requisitos.md)
 
 ## ⚙ Modelagem do Sistema
 Na fase de modelagem, usamos o software **Astah** para não só modela os aspectos gerais, mas também partes especificas do sistema. Nesse sentindo, usamos vários abordagens de modelagens do sistema para detalhar as trocas de informações, apresentando com isso, algumas perspectivas diferentes do sistema para possíveis implementadores.
 
-[Clique aqui para ver a Modelagem Completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
+[Clique aqui para ver a Modelagem completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
 
  ### Exemplos
  
  #### Caso de Uso Geral
- 
-![](https://i.imgur.com/1xR9TK6.png)
+ <img src="assets\APS-Astah\1. Sistema-Geral\CSU Geral.png" />
 
  #### Visão De Classes Participantes
-
-![](https://i.imgur.com/u1gVPwp.png)
+<img src="assets\APS-Astah\2. VCP\VCP-ComprarProduto\Comprar Produto.png" />
 
  #### Diagrama de sequência
- ![](https://i.imgur.com/BTnAsHY.png)
+<img src="assets\APS-Astah\3. Diagramas-Sequencia\VisualizarRastreio\VisualizarRastreio.png" />
  
  #### Diagrama de estados
- ![](https://i.imgur.com/ha4h5i2.png)
+<img src="assets\APS-Astah\4. Diagrama-Estados\Estados-Pedido\Estados-Pedido.png" />
  
  #### Diagrama de atividade
- ![](https://i.imgur.com/JHXV0nc.png)
+<img src="assets\APS-Astah\5. Diagramas-Atividade\Atividade-RealizarCompra\Atividade-Realizar Compra.png" />
 
 
-[Clique aqui para ver a Modelagem Completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
+[Clique aqui para ver a Modelagem completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
 
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
