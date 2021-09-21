@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/Amazon Logo.jpg" width="600px"/>
+<img src="assets/Amazon.png" width="600px"/>
 </p>
 
 <p align="center">
