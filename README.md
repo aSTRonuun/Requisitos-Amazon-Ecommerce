@@ -72,19 +72,19 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
  ### Exemplos
  
  #### Caso de Uso Geral
- <img src="assets\APS-Astah\1. Sistema-Geral\CSU Geral.png" />
+ <img src="assets\APS_Astah\1.Sistema_Geral\CSU_Geral.png" />
 
  #### Visão De Classes Participantes
-<img src="assets\APS-Astah\2. VCP\VCP-ComprarProduto\Comprar Produto.png" />
+<img src="assets\APS_Astah\2.VCP\VCP-ComprarProduto\Comprar Produto.png" />
 
  #### Diagrama de sequência
-<img src="assets\APS-Astah\3. Diagramas-Sequencia\VisualizarRastreio\VisualizarRastreio.png" />
+<img src="assets\APS_Astah\3. Diagramas-Sequencia\VisualizarRastreio\VisualizarRastreio.png" />
  
  #### Diagrama de estados
-<img src="assets\APS-Astah\4. Diagrama-Estados\Estados-Pedido\Estados-Pedido.png" />
+<img src="assets\APS_Astah\4. Diagrama-Estados\Estados-Pedido\Estados-Pedido.png" />
  
  #### Diagrama de atividade
-<img src="assets\APS-Astah\5. Diagramas-Atividade\Atividade-RealizarCompra\Atividade-Realizar Compra.png" />
+<img src="assets\APS_Astah\5. Diagramas-Atividade\Atividade-RealizarCompra\Atividade-Realizar Compra.png" />
 
 
 [Clique aqui para ver a Modelagem completa](https://github.com/aSTRonuun/Requisitos-Amazon-Ecommerce/blob/main/docs/Modelagem.md)
