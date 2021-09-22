@@ -20,6 +20,8 @@
 <img  src="..\assets\APS_Astah\1.Sistema_Geral\CSU_Geral.png"/>
 
 ## Visão de Classe Participantes
+A visão de classe participante(VCP), é um diagrama de classes onde seus objetos fazem parte de um caso de uso, dessa forma, é possível elaborar
+um ou mais VCP's por cada caso de uso. Essa estratégia é usada para que não haja apenas um único diagrama de classe, que por conseguinte, resultaria em um diagrama muito extenso e complexo. Logo, como podemos ver a seguir, foram feitos vários VCP's a fim de facilitar a compreensão de cada um dos diagramas.
 ### Comprar produto
 <img  src="..\assets\APS_Astah\2.VCP\VCP-ComprarProduto\Comprar Produto.png"/>
 
