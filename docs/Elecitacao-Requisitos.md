@@ -5,29 +5,29 @@
 - [Casos de uso](#casos-de-uso)
 
 ## Requisitos funcionais
-![](https://i.imgur.com/IVpeN7M.jpg)
-![](https://i.imgur.com/Pv03Fxh.jpg)
+<img  src="..\assets\APS-Planilha\Requisitos Funcionais\Requisitos Funcionais-1.jpg"/>
+<img  src="..\assets\APS-Planilha\Requisitos Funcionais\Requisitos Funcionais-2.jpg"/>
 
 ## Requisitos não funcionais
-![](https://i.imgur.com/kcPFv1n.jpg)
+<img  src="..\assets\APS-Planilha\Requisitos Não Funcionais\Requisitos Não Funcionais-1.jpg"/>
 
 ## Regras de negócio
-![](https://i.imgur.com/rnpuTc4.jpg)
+<img  src="..\assets\APS-Planilha\Regras de Negócio\Regras de Negócio-1.jpg"/>
 
 ## Atores
-![](https://i.imgur.com/wWg4Doc.jpg)
+<img  src="..\assets\APS-Planilha\Atores\Atores-1.jpg"/>
 
 ## Casos de uso
-![](https://i.imgur.com/MuiSsGe.jpg)
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-1.jpg"/>
 
-![](https://i.imgur.com/jvzgUEg.jpg)
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-2.jpg"/>
 
-![](https://i.imgur.com/4GRDvOw.jpg)
-![](https://i.imgur.com/gRIU3oj.jpg)
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-3.jpg"/>
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-4.jpg"/>
 
-![](https://i.imgur.com/NEeZzwK.jpg)
-![](https://i.imgur.com/DbUGis8.jpg)
-![](https://i.imgur.com/OhZiwPH.jpg)
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-5.jpg"/>
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-6.jpg"/>
+<img  src="..\assets\APS-Planilha\Casos de Uso\Documentação-System - Casos de Uso-7.jpg"/>
 
 
 
