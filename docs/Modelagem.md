@@ -50,7 +50,7 @@ A interação entre objetos para dar suporte a funcionalidade de um caso de uso 
 <img  src="..\assets\APS_Astah\3. Diagramas-Sequencia\RealizarCompra\RealizarCompra-Sequencia.png"/>
 
 ### Visualizar rastreio 2
-<img  src="..\assets\assets\APS_Astah\3. Diagramas-Sequencia\VisualizarRastreio\VisualizarRastreio.png"/>
+<img  src="..\assets\APS_Astah\3. Diagramas-Sequencia\VisualizarRastreio\VisualizarRastreio.png"/>
 
 ## Diagramas de estado
 
