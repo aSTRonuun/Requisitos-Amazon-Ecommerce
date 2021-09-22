@@ -16,6 +16,9 @@
     - [Avaliar Produto](#avaliar-produto)
     - [Realizar Compra](#realizar-compra-3)
 ## Caso de Uso Geral
+
+O modelo de casos de uso (MCU) é uma representação das *funcionalidades* externamente observáveis do sistema e dos *elementos exeternos* ao sistema que interagem com ele. O MCU é um modelo de análise que representa um refinamento *dos requisitos funcionais* do sistema em desenvolvimento. A ferramenta da UML utilizada na modelagem de casos de uso é *diagrama de casos de uso.*
+
 ![](https://i.imgur.com/WyIuysc.png)
 
 ## Visão de Classe Participantes
@@ -31,6 +34,9 @@
 ![](https://i.imgur.com/fn56zW0.png)
 
 ## Diagramas de sequência
+
+A interação entre objetos para dar suporte a funcionalidade de um caso de uso denomina-se realização de um caso. A realização de um caso de uso descreve o comportamento de um ponto de vista interno ao sistem. O diagrama de sequência é um dos diagramas da UML que da suporte a essa modelagem, assim, o objetivo do diagrama de sequência é apresentar as interações entre objetos na ordem temporal em que elas acontecem.
+
 ### Lançar produto 2
 ![](https://i.imgur.com/ky28ILV.png)
 ### Realizar compra 2
@@ -39,12 +45,18 @@
 ![](https://i.imgur.com/dEeQft0.png)
 
 ## Diagramas de estado
+
+A UML tem um conjunto rico de notações para desenhar um DTE. Alguns elementos básicos de um diagrama de transição de estados e as transições. Associados a estas últimas estão os conceitos de evento, ação e atividade. Diante disso, temos um diagrama de estados, onde um estado é uma situação na vida de um objeto durante a qual ele satifaz alguma condição ou realiza alguma atividade. O estado inicial é representado como um círculo preenchido e indica quando ele é criado. Só pode haver um estado inicial em um DTE. O estado final é representado como um círculo "eclipsado" e indica o fim do ciclo de vida de um objeto.
+
 ### Estados Pedido
 ![](https://i.imgur.com/oEnHVav.png)
 ### Estados Produto
 ![](https://i.imgur.com/pus7KYP.png)
 
 ## Diagramas de atividade
+
+Um diagrama de atividade é um tipo especial de diagrama de estados, em que são representados os estados de uma atividade em vez dos estados de um objeto. Ao contrário dos diagramas de estados, que são orientados a eventos, diagramas de atividades são orientados a fluxos de controle. O diagrama de atividade pode ser visto como uma extensão dos fluxogramas. Além de possuir toda a semântica existente um fluxograma (com notação ligeiramente diferente), o diagrama de atividade possui notação para representar ações concorrente (paralelas), juntamente com a sua sincronização.
+
 ### Avaliar Produto
 ![](https://i.imgur.com/h4gGg7E.png)
 ### Realizar Compra 3
