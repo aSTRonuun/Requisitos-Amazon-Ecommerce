@@ -16,39 +16,39 @@
     - [Avaliar Produto](#avaliar-produto)
     - [Realizar Compra](#realizar-compra-3)
 ## Caso de Uso Geral
-![](https://i.imgur.com/WyIuysc.png)
+![](assets/APS-Astah/1. Sistema-Geral/CSU Geral.png)
 
 ## Visão de Classe Participantes
 ### Comprar produto
-![](https://i.imgur.com/XWzRNsP.png)
+![](assets/APS-Astah/2. VCP/VCP-ComprarProduto/Comprar Produto.png)
 ### Lançar produto
-![](https://i.imgur.com/ow78i5q.png)
+![](assets/APS-Astah/2. VCP/VCP-LançarProduto/LancarProduto.png)
 ### Realizar Cadastro
-![](https://i.imgur.com/r8tIJeH.png)
+![](assets/APS-Astah/2. VCP/VCP-RealizarCadastro/Realizar Cadastro.png)
 ### Realizar Devolução
-![](https://i.imgur.com/4D8CWnb.png)
+![](assets/APS-Astah/2. VCP/VCP-RealizarDevolução/Realizar Devolução.png)
 ### Visualizar Rastreio
-![](https://i.imgur.com/fn56zW0.png)
+![](assets/APS-Astah/2. VCP/VCP-VisualizarRastreio/Visualizar Rastreio.png)
 
 ## Diagramas de sequência
 ### Lançar produto 2
-![](https://i.imgur.com/ky28ILV.png)
+![](assets/APS-Astah/3. Diagramas-Sequencia/LancarProduto/Lançar Produto.png)
 ### Realizar compra 2
-![](https://i.imgur.com/0iOGbxi.png)
+![](assets/APS-Astah/3. Diagramas-Sequencia/RealizarCompra/RealizarCompra-Sequencia.png)
 ### Visualizar rastreio 2
-![](https://i.imgur.com/dEeQft0.png)
+![](assets/APS-Astah/3. Diagramas-Sequencia/VisualizarRastreio/VisualizarRastreio.png)
 
 ## Diagramas de estado
 ### Estados Pedido
-![](https://i.imgur.com/oEnHVav.png)
+![](assets/APS-Astah/4. Diagrama-Estados/Estados-Pedido/Estados-Pedido.png)
 ### Estados Produto
-![](https://i.imgur.com/pus7KYP.png)
+![](assets/APS-Astah/4. Diagrama-Estados/Estados-Produto/Estados-Produto.png)
 
 ## Diagramas de atividade
 ### Avaliar Produto
-![](https://i.imgur.com/h4gGg7E.png)
+![](assets/APS-Astah/5. Diagramas-Atividade/Atividade-AvaliarProduto/Atividade-AvaliarProdutoPeloHistórico.png)
 ### Realizar Compra 3
-![](https://i.imgur.com/8sSrbtp.png)
+![](assets/APS-Astah/5. Diagramas-Atividade/Atividade-RealizarCompra/Atividade-Realizar Compra.png)
 
 
 
