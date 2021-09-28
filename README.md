@@ -72,18 +72,28 @@ Na fase de modelagem, usamos o software **Astah** para não só modela os aspect
  ### Exemplos
  
  #### Caso de Uso Geral
- <img src="assets\APS_Astah\1.Sistema_Geral\CSU_Geral.png" />
+  - Visão Geral
+ 
+<img src="assets\APS_Astah\1.Sistema_Geral\CSU_Geral.png" />
 
  #### Visão De Classes Participantes
+  - Comprar Produto
+
 <img src="assets\APS_Astah\2.VCP\VCP-ComprarProduto\Comprar Produto.png" />
 
  #### Diagrama de sequência
+  - Visualizar Rastreio
+
 <img src="assets\APS_Astah\3. Diagramas-Sequencia\VisualizarRastreio\VisualizarRastreio.png" />
  
  #### Diagrama de estados
+  - Estados do Pedido  
+
 <img src="assets\APS_Astah\4. Diagrama-Estados\Estados-Pedido\Estados-Pedido.png" />
- 
+
  #### Diagrama de atividade
+  - Realizar Compra
+
 <img src="assets\APS_Astah\5. Diagramas-Atividade\Atividade-RealizarCompra\Atividade-Realizar Compra.png" />
 
 

@@ -1,3 +1,5 @@
+## Sumário
+
 - [Caso de Uso Geral](#caso-de-uso-geral)
 - [Visão de Classe Participantes](#visão-de-classe-participantes)
     - [Comprar Produto](#comprar-produto)
